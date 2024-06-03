@@ -1,5 +1,8 @@
 En este repositorio. README. se encontraran las soluciones al taller de bucles con las funciones for, while, do while
 
+*Autor:*
+Luis Alejandro Blacio Torres
+
 *Objetivo:*
 
 Desarrollar habilidades en la programación de bucles en C, resolviendo una variedad de problemas utilizando los bucles for, while y do while.
