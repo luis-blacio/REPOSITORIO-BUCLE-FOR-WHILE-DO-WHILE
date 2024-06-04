@@ -21,7 +21,11 @@ A continuación se presentan una serie de problemas que deberán resolverse util
 
 ***Soluciones:***
 For: [https://github.com/luis-blacio/REPOSITORIO-BUCLE-FOR-WHILE-DO-WHILE/blob/942fc518748b88a3006cc1db6b022f7dc8c49932/a)%20%60for%60-%20%60ejercicios%3Asuma_digitos%3Afor.c%60%20.c](url)
+
+
 while: [https://github.com/luis-blacio/REPOSITORIO-BUCLE-FOR-WHILE-DO-WHILE/blob/7d76471d4be911322013d1e5eab2833b93af5f66/1.2.%20c.c](url)
+
+
 Do while: [https://github.com/luis-blacio/REPOSITORIO-BUCLE-FOR-WHILE-DO-WHILE/blob/6972fe3d6e8186a616a198a38d906f95165ed4ac/1.3%20.c](url)
 
 
