@@ -20,6 +20,8 @@ A continuación se presentan una serie de problemas que deberán resolverse util
 • Ejemplo: 12567 -> 1 + 2 + 5 + 6 + 7 = 21
 
 ***Soluciones:***
+
+
 For: [https://github.com/luis-blacio/REPOSITORIO-BUCLE-FOR-WHILE-DO-WHILE/blob/942fc518748b88a3006cc1db6b022f7dc8c49932/a)%20%60for%60-%20%60ejercicios%3Asuma_digitos%3Afor.c%60%20.c](url)
 
 
@@ -36,9 +38,17 @@ Do while: [https://github.com/luis-blacio/REPOSITORIO-BUCLE-FOR-WHILE-DO-WHILE/b
 • Ejemplo: 12567 -> 76521
 
 ***Soluciones:***
+
+
 For: [https://github.com/luis-blacio/REPOSITORIO-BUCLE-FOR-WHILE-DO-WHILE/blob/9afb2491a3f88608f4b55cfa9657f2155ed0f4a7/2.1%20.c](url)
+
+
 while: [https://github.com/luis-blacio/REPOSITORIO-BUCLE-FOR-WHILE-DO-WHILE/blob/9afb2491a3f88608f4b55cfa9657f2155ed0f4a7/2.2.%20c.c](url)
+
+
 Do while: [https://github.com/luis-blacio/REPOSITORIO-BUCLE-FOR-WHILE-DO-WHILE/blob/9afb2491a3f88608f4b55cfa9657f2155ed0f4a7/2.3%20.c](url)
+
+
 
 3. Potencia mediante sumas sucesivas
 
@@ -47,8 +57,14 @@ Do while: [https://github.com/luis-blacio/REPOSITORIO-BUCLE-FOR-WHILE-DO-WHILE/b
 • Ejemplo: 2^3 = 2 * 2 * 2 = 8
 
 For:
+
+
 While:
+
+
 Do While:
+
+
 
 4. Radicación mediante restas sucesivas
 
