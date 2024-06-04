@@ -56,13 +56,13 @@ Do while: [https://github.com/luis-blacio/REPOSITORIO-BUCLE-FOR-WHILE-DO-WHILE/b
 
 • Ejemplo: 2^3 = 2 * 2 * 2 = 8
 
-For:
+For: [https://github.com/luis-blacio/REPOSITORIO-BUCLE-FOR-WHILE-DO-WHILE/blob/7d9876deb335cb92ad18559d5b35517100ce706f/3.1%20c.c](url)
 
 
-While:
+While:[https://github.com/luis-blacio/REPOSITORIO-BUCLE-FOR-WHILE-DO-WHILE/blob/7d9876deb335cb92ad18559d5b35517100ce706f/3.2%20c.c](url)
 
 
-Do While:
+Do While:[https://github.com/luis-blacio/REPOSITORIO-BUCLE-FOR-WHILE-DO-WHILE/blob/7d9876deb335cb92ad18559d5b35517100ce706f/3.3%20.c](url)
 
 
 
@@ -71,6 +71,10 @@ Do While:
 • Descripción: Calcular la raíz cúbica de un número utilizando restas sucesivas.
 
 • Ejemplo: 27^(1/3) = 3
+
+
+
+
 
 5. Serie de Fibonacci
 
