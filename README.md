@@ -20,8 +20,8 @@ A continuación se presentan una serie de problemas que deberán resolverse util
 • Ejemplo: 12567 -> 1 + 2 + 5 + 6 + 7 = 21
 
 *Soluciones:*
-
-
+For: [https://github.com/luis-blacio/REPOSITORIO-BUCLE-FOR-WHILE-DO-WHILE/blob/942fc518748b88a3006cc1db6b022f7dc8c49932/a)%20%60for%60-%20%60ejercicios%3Asuma_digitos%3Afor.c%60%20.c](url)
+while
 
 
 2. Inverso de un número
