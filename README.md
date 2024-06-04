@@ -1,17 +1,17 @@
-En este repositorio. README. se encontraran las soluciones al taller de bucles con las funciones for, while, do while
+***En este repositorio. README. se encontraran las soluciones al taller de bucles con las funciones for, while, do while***
 
-*Autor:*
+***Autor:***
 Luis Alejandro Blacio Torres
 
-*Objetivo:*
+***Objetivo:***
 
 Desarrollar habilidades en la programación de bucles en C, resolviendo una variedad de problemas utilizando los bucles for, while y do while.
 
-*Instrucciones:*
+***Instrucciones:***
 
 A continuación se presentan una serie de problemas que deberán resolverse utilizando tres estructuras de control de bucle: for, while y do while. Cada problema deberá ser resuelto de tres maneras diferentes, completando un total de 20 ejercicios.
 
-*Problemas:*
+***Problemas:***
 
 1. Suma de los dígitos de un número
 
@@ -19,9 +19,10 @@ A continuación se presentan una serie de problemas que deberán resolverse util
 
 • Ejemplo: 12567 -> 1 + 2 + 5 + 6 + 7 = 21
 
-*Soluciones:*
+***Soluciones:***
 For: [https://github.com/luis-blacio/REPOSITORIO-BUCLE-FOR-WHILE-DO-WHILE/blob/942fc518748b88a3006cc1db6b022f7dc8c49932/a)%20%60for%60-%20%60ejercicios%3Asuma_digitos%3Afor.c%60%20.c](url)
-while
+while: [https://github.com/luis-blacio/REPOSITORIO-BUCLE-FOR-WHILE-DO-WHILE/blob/7d76471d4be911322013d1e5eab2833b93af5f66/1.2.%20c.c](url)
+Do while: [https://github.com/luis-blacio/REPOSITORIO-BUCLE-FOR-WHILE-DO-WHILE/blob/6972fe3d6e8186a616a198a38d906f95165ed4ac/1.3%20.c](url)
 
 
 2. Inverso de un número
@@ -30,11 +31,20 @@ while
 
 • Ejemplo: 12567 -> 76521
 
+***Soluciones:***
+For: [https://github.com/luis-blacio/REPOSITORIO-BUCLE-FOR-WHILE-DO-WHILE/blob/9afb2491a3f88608f4b55cfa9657f2155ed0f4a7/2.1%20.c](url)
+while: [https://github.com/luis-blacio/REPOSITORIO-BUCLE-FOR-WHILE-DO-WHILE/blob/9afb2491a3f88608f4b55cfa9657f2155ed0f4a7/2.2.%20c.c](url)
+Do while: [https://github.com/luis-blacio/REPOSITORIO-BUCLE-FOR-WHILE-DO-WHILE/blob/9afb2491a3f88608f4b55cfa9657f2155ed0f4a7/2.3%20.c](url)
+
 3. Potencia mediante sumas sucesivas
 
 • Descripción: Calcular la potencia de un número utilizando sumas sucesivas.
 
 • Ejemplo: 2^3 = 2 * 2 * 2 = 8
+
+For:
+While:
+Do While:
 
 4. Radicación mediante restas sucesivas
 
